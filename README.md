@@ -4,6 +4,8 @@ Basic selenium scripts with Python for https://glycam.org/ using chrome driver
 # About Selenium - Web driver
 - An Automated testing tool for web devolopement
 - Version in use selenium==4.1.3
+- You can directly execute main.py with python3 after cloning the reporsitory if you already have the necessary installations
+- sel_test1 is just a mock created to test some of the functionalities offered by selenium
 
 # Installation of selenium web driver for Ubantu | Python 
 1. Please make sure your system already has pip3, Python3 installed. Selenium is JAVA based, so you will also need JRE 1.6 or abover installed.(use following to check "pip3 --version", "python3 --version",  "java" or "java --version").
@@ -73,3 +75,4 @@ Official docs
 
 # Selenium - IDE
 - https://www.selenium.dev/selenium-ide/docs/en/introduction/getting-started
+
