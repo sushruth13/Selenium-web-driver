@@ -1,5 +1,5 @@
 # Selenium-web-driver
-Basic selenium scripts with Python for https://glycam.org/ using chrome driver
+Selenium scripts implementing unittest framework with Python for https://glycam.org/ using chrome driver
 
 # About Selenium - Web driver
 - An Automated testing tool for web devolopement
